@@ -4,7 +4,7 @@
 
 網站連結：[GitHub Page](https://lidemy.github.io/lazy-hackathon/)
 
-![visual](https://i.imgur.com/sb1m6XB.png)
+![visual](https://i.imgur.com/sb1m6XB.webp)
 
 此網站是 [程式導師實驗計畫第三期](https://github.com/Lidemy/mentor-program-3rd) 第二十週的作業，如果你覺得網站很卡很肥大，沒錯你是對的，因為我們故意把這個網站做得這麼卡。
 
