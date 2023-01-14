@@ -2,7 +2,7 @@
 
 ## 介紹
 
-網站連結：[GitHub Page](https://ycs77.github.io/lazy-hackathon/) | [Vercel](https://lazy-hackathon-ycs77.vercel.app/)
+網站連結：[GitHub Pages](https://ycs77.github.io/lazy-hackathon/) | [Vercel](https://lazy-hackathon-ycs77.vercel.app/)
 
 ![visual](https://i.imgur.com/sb1m6XB.webp)
 
